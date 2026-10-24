@@ -35,7 +35,7 @@ const T = {
   en: {
     nav: ["Home", "About", "Technologies", "Experience", "Projects", "Contact"],
     hello: "Hi, I'm",
-    role: "Web developer & computer science student",
+    role: "Full Stack developer & computer science student",
     cta: "Download my CV",
     contactBtn: "Contact me",
     aboutT: "About me",
